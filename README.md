@@ -40,13 +40,14 @@ AI 를 결합한 팀 프로젝트 서비스 “P.zza( 프로젝트 하자! : Pro
 @이지원
 @은비 
 @김진영
-이승현
-이진희
+@이승현
+@이진희
+@윤예찬
 
 
 ### 🔴 결과물
 - 프로토타입 (URL) : http://223.130.138.223
 - 노션 링크 : https://crystalline-wanderer-38d.notion.site/P-zza-9cf348deb0754bb197395b966f5509b4?pvs=4
-- 서비스 소개 PPT : https://drive.google.com/file/d/1RpIj_C4vZBt-zLBr0qKrKL24Xo4Xhush/view?usp=drive_link (편집됨) 
+- 서비스 소개 PPT : https://drive.google.com/file/d/1RpIj_C4vZBt-zLBr0qKrKL24Xo4Xhush/view?usp=drive_link
 <img width="981" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/68f13e3b-6d2d-4c5e-826b-986e1b6ca75b">
 
