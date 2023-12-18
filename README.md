@@ -24,17 +24,17 @@ AI 를 결합한 팀 프로젝트 서비스 “P.zza( 프로젝트 하자! : Pro
 ### 🔴 서비스 소개
 
 ✅ 프로젝트 주제 선정을 도와드립니다. <br/>
-키워드만 있으면 ai 가 주제를 추천해드려요.<br/>
-<img width="992" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/870253c3-a141-49d1-9eb1-9fe86097a79b">
+키워드만 있으면 ai 가 주제를 추천해드려요.<br/><br/>
+<img width="992" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/870253c3-a141-49d1-9eb1-9fe86097a79b"><br/>
 
 ✅ 원하는 팀원 모집이 가능합니다<br/>
-프로필만 등록하면 팀장이 찾고 있는 팀원을 찾을 수 있어요.<br/>
+프로필만 등록하면 팀장이 찾고 있는 팀원을 찾을 수 있어요.<br/><br/>
 <img width="961" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/1c393c4d-b273-4400-89eb-ec2b6d153274">
-
-<img width="228" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/b310dba8-d5ae-4ad5-abe5-ed5e5c63da5f">
-
+<p align="center">
+<img width="228" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/b310dba8-d5ae-4ad5-abe5-ed5e5c63da5f"><br/>
+</p>
 ✅ 프로젝트 일정 및 가이드 관리<br/>
-프로젝트를 시작하면 어떻게 무슨 작업을 해야하는지 가이드만 따라오면 완주 가능!
+프로젝트를 시작하면 어떻게 무슨 작업을 해야하는지 가이드만 따라오면 완주 가능!<br/>
 <img width="832" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/773bf904-3c88-4484-b913-4be741898b0e">
 
 
@@ -42,7 +42,7 @@ AI 를 결합한 팀 프로젝트 서비스 “P.zza( 프로젝트 하자! : Pro
 | 기획 | FE | BE | 디자인 |
 |-------|-------|-------|-------|
 | 은비 | 이지원 | 윤예찬 | 이진희 |
-| - | 김진영 | - | 이승현 |
+|  | 김진영 |  | 이승현 |
 
 
 
