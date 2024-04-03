@@ -1,5 +1,5 @@
 
-## 🍕P.zza ( 프로젝트 하자! : Project hazza !)
+## 🍕P.zza ( 프로젝트 하자! : Project hazza!)
 AI 를 결합한 팀 프로젝트 서비스 “P.zza( 프로젝트 하자! : Project hazza !)” 를 만들고 있는 피자 팀입니다
 <img width="739" alt="image" src="https://github.com/Wlfjd/P.zza-FE/assets/103630185/fd294e49-9f59-4f80-84ac-d03be87b05ea">
 
